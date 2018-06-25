@@ -1,7 +1,7 @@
 # Assessment-of-Variability-in-the-SOMAscan-Assay
 
 
-https://github.com/foocheung/Assessment-of-Variability-in-the-SOMAscan-Assay/blob/master/somacv.png
+<img src="https://github.com/foocheung/Assessment-of-Variability-in-the-SOMAscan-Assay/blob/master/somacv.png">
 
 
 
